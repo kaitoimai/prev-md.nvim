@@ -2,7 +2,7 @@
 
 Realtime Markdown preview for Neovim, powered by [glow](https://github.com/charmbracelet/glow).
 
-![](https://github.com/user-attachments/assets/988cf667-65ab-4696-9653-e2e236ea61b7)
+![](https://github.com/user-attachments/assets/77c83c8e-030c-4458-9e1b-7d330a5d6323)
 
 ## Features
 
