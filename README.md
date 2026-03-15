@@ -2,6 +2,8 @@
 
 Realtime Markdown preview for Neovim, powered by [glow](https://github.com/charmbracelet/glow).
 
+![](https://github.com/user-attachments/assets/988cf667-65ab-4696-9653-e2e236ea61b7)
+
 ## Features
 
 - Renders Markdown in a vertical split using glow (or mdcat / bat)
